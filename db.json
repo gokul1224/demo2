@@ -1,11 +1,20 @@
 {
     "results": [
         {
-            "gender": "female",
-            "name": {
-                "title": "HI.html",
+            
+            "Projct_Code": "G23",
+            "Projct_Cat": "Embdd-C",
+            "State": "R&D --🚧",
+            "SIMI_Link": "IPID_<simi_link>",
+            "Description": {
+                "next_link": "HI.html",
                 "first": "IPID_20000",
-                "last": "A"
+                "last": "A",
+                "title": "8-Bit MCU based Serial Monitor",
+                "R_date": "31/12/2023",
+                "Add_info": "Embedded, Embedded C language",
+                "Rev": "Rev:0.0",
+                "about": "<***about project***>"
             },
             "location": {
                 "street": {
@@ -25,204 +34,132 @@
                     "description": "Eastern Australia, Guam, Vladivostok"
                 }
             },
-            "email": "03/10/23",
-            "login": {
-                "uuid": "596f1bb0-59c6-41c9-a03c-2d02d6993702",
-                "username": "smalldog880",
-                "password": "celtic",
-                "salt": "MUzfVKAd",
-                "md5": "651e11851718c7ea923747fec1a2ad5e",
-                "sha1": "7e23371bf5dc476eb6915520f04de57fd65d63c4",
-                "sha256": "7d7fb9c9d744f48e45ca71688d570324d8508e4857ae4ba57fb8f2cc2e7becf4"
-            },
-            "dob": {
-                "date": "1948-02-05T02:29:34.863Z",
-                "age": 75
-            },
-            "registered": {
-                "date": "2005-10-16T07:03:33.412Z",
-                "age": 17
-            },
-            "phone": "55524016",
-            "cell": "97350925",
-            "id": {
-                "name": "FN",
-                "value": "05024821864"
-            },
             "picture": {
-                "large": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
-                "medium": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
-                "thumbnail": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png"
+                "large": "Embedded_Icon.PNG",
+                "medium": "Embedded_Icon.PNG",
+                "thumbnail": "Embedded_Icon.PNG"
             },
             "nat": "NO"
         },
         {
-            "gender": "female",
-        "name": {
-            "title": "HI.html",
-            "first": "IPID_20001",
-            "last": "A"
-        },
-        "location": {
-            "street": {
-                "number": 1017,
-                "name": "Rosenholmveien"
+            "Projct_Code": "G23",
+            "Projct_Cat": "Embdd-C",
+            "State": "Draft --🛑",
+            "SIMI_Link": "IPID_<simi_link>",
+            "Description": {
+                "next_link": "HI.html",
+                "first": "IPID_20001",
+                "last": "A",
+                "title": "8-Bit ADC Heart Beat Reader",
+                "R_date": "31/11/2023",
+                "Add_info": "Embedded, Embedded C language",
+                "Rev": "Rev:0.0",
+                "about": "<***about project***>"
             },
-            "city": "Embedded",
-            "state": "Akershus",
-            "country": "Python language",
-            "postcode": "6872",
-            "coordinates": {
-                "latitude": "46.1142",
-                "longitude": "105.2862"
+            "location": {
+                "street": {
+                    "number": 1017,
+                    "name": "Rosenholmveien"
+                },
+                "city": "Embedded",
+                "state": "8-Bit MCU based Serial Monitor",
+                "country": "C language",
+                "postcode": "HW+SW",
+                "coordinates": {
+                    "latitude": "46.1142",
+                    "longitude": "105.2862"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
             },
-            "timezone": {
-                "offset": "+10:00",
-                "description": "Eastern Australia, Guam, Vladivostok"
-            }
-        },
-        "email": "fatma.muhammad@example.com",
-        "login": {
-            "uuid": "596f1bb0-59c6-41c9-a03c-2d02d6993702",
-            "username": "smalldog880",
-            "password": "celtic",
-            "salt": "MUzfVKAd",
-            "md5": "651e11851718c7ea923747fec1a2ad5e",
-            "sha1": "7e23371bf5dc476eb6915520f04de57fd65d63c4",
-            "sha256": "7d7fb9c9d744f48e45ca71688d570324d8508e4857ae4ba57fb8f2cc2e7becf4"
-        },
-        "dob": {
-            "date": "1948-02-05T02:29:34.863Z",
-            "age": 75
-        },
-        "registered": {
-            "date": "2005-10-16T07:03:33.412Z",
-            "age": 17
-        },
-        "phone": "55524016",
-        "cell": "97350925",
-        "id": {
-            "name": "FN",
-            "value": "05024821864"
-        },
-        "picture": {
-            "large": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
-            "medium": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
-            "thumbnail": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png"
-        },
-        "nat": "NO"
+            "picture": {
+                "large": "Embedded_Icon.PNG",
+                "medium": "Embedded_Icon.PNG",
+                "thumbnail": "Embedded_Icon.PNG"
+            },
+            "nat": "NO"
     },
     {
-        "gender": "female",
-    "name": {
-        "title": "HI.html",
-        "first": "IPID_20002",
-        "last": "A"
-    },
-    "location": {
-        "street": {
-            "number": 1017,
-            "name": "Rosenholmveien"
-        },
-        "city": "Embedded",
-        "state": "Akershus",
-        "country": "Python language",
-        "postcode": "6872",
-        "coordinates": {
-            "latitude": "46.1142",
-            "longitude": "105.2862"
-        },
-        "timezone": {
-            "offset": "+10:00",
-            "description": "Eastern Australia, Guam, Vladivostok"
-        }
-    },
-    "email": "fatma.muhammad@example.com",
-    "login": {
-        "uuid": "596f1bb0-59c6-41c9-a03c-2d02d6993702",
-        "username": "smalldog880",
-        "password": "celtic",
-        "salt": "MUzfVKAd",
-        "md5": "651e11851718c7ea923747fec1a2ad5e",
-        "sha1": "7e23371bf5dc476eb6915520f04de57fd65d63c4",
-        "sha256": "7d7fb9c9d744f48e45ca71688d570324d8508e4857ae4ba57fb8f2cc2e7becf4"
-    },
-    "dob": {
-        "date": "1948-02-05T02:29:34.863Z",
-        "age": 75
-    },
-    "registered": {
-        "date": "2005-10-16T07:03:33.412Z",
-        "age": 17
-    },
-    "phone": "55524016",
-    "cell": "97350925",
-    "id": {
-        "name": "FN",
-        "value": "05024821864"
-    },
-    "picture": {
-        "large": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
-        "medium": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
-        "thumbnail": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png"
-    },
-    "nat": "NO"
+        "Projct_Code": "G23",
+            "Projct_Cat": "Embdd-C",
+            "State": "Proto --✔",
+            "SIMI_Link": "IPID_<simi_link>",
+            "Description": {
+                "next_link": "HI.html",
+                "first": "IPID_20002",
+                "last": "A",
+                "title": "LED Blinking",
+                "R_date": "31/10/2023",
+                "Add_info": "Embedded, Embedded C language",
+                "Rev": "Rev:0.0",
+                "about": "<***about project***>"
+            },
+            "location": {
+                "street": {
+                    "number": 1017,
+                    "name": "Rosenholmveien"
+                },
+                "city": "Embedded",
+                "state": "8-Bit MCU based Serial Monitor",
+                "country": "C language",
+                "postcode": "HW+SW",
+                "coordinates": {
+                    "latitude": "46.1142",
+                    "longitude": "105.2862"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "picture": {
+                "large": "Embedded_Icon.PNG",
+                "medium": "Embedded_Icon.PNG",
+                "thumbnail": "Embedded_Icon.PNG"
+            },
+            "nat": "NO"
 },
 {
-    "gender": "female",
-"name": {
-    "title": "HI.html",
-    "first": "IPID_20003",
-    "last": "A"
-},
-"location": {
-    "street": {
-        "number": 1017,
-        "name": "Rosenholmveien"
-    },
-    "city": "Embedded",
-    "state": "Akershus",
-    "country": "Python language",
-    "postcode": "6872",
-    "coordinates": {
-        "latitude": "46.1142",
-        "longitude": "105.2862"
-    },
-    "timezone": {
-        "offset": "+10:00",
-        "description": "Eastern Australia, Guam, Vladivostok"
-    }
-},
-"email": "fatma.muhammad@example.com",
-"login": {
-    "uuid": "596f1bb0-59c6-41c9-a03c-2d02d6993702",
-    "username": "smalldog880",
-    "password": "celtic",
-    "salt": "MUzfVKAd",
-    "md5": "651e11851718c7ea923747fec1a2ad5e",
-    "sha1": "7e23371bf5dc476eb6915520f04de57fd65d63c4",
-    "sha256": "7d7fb9c9d744f48e45ca71688d570324d8508e4857ae4ba57fb8f2cc2e7becf4"
-},
-"dob": {
-    "date": "1948-02-05T02:29:34.863Z",
-    "age": 75
-},
-"registered": {
-    "date": "2005-10-16T07:03:33.412Z",
-    "age": 17
-},
-"phone": "55524016",
-"cell": "97350925",
-"id": {
-    "name": "FN",
-    "value": "05024821864"
-},
-"picture": {
-    "large": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
-    "medium": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png",
-    "thumbnail": "https://cdn4.iconfinder.com/data/icons/technology-83/1000/embedded_device_embedded_system_internet_embedding_embedded_systems_iot_embedded-512.png"
-},
-"nat": "NO"
+    "Projct_Code": "G23",
+            "Projct_Cat": "Embdd-C",
+            "State": "Released --✔",
+            "SIMI_Link": "IPID_<simi_link>",
+            "Description": {
+                "next_link": "HI.html",
+                "first": "IPID_20003",
+                "last": "A",
+                "title": "ADC & DAC",
+                "R_date": "31/09/2023",
+                "Add_info": "Embedded, Embedded C language",
+                "Rev": "Rev:0.0",
+                "about": "<***about project***>"
+            },
+            "location": {
+                "street": {
+                    "number": 1017,
+                    "name": "Rosenholmveien"
+                },
+                "city": "Embedded",
+                "state": "8-Bit MCU based Serial Monitor",
+                "country": "C language",
+                "postcode": "HW+SW",
+                "coordinates": {
+                    "latitude": "46.1142",
+                    "longitude": "105.2862"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "picture": {
+                "large": "Embedded_Icon.PNG",
+                "medium": "Embedded_Icon.PNG",
+                "thumbnail": "Embedded_Icon.PNG"
+            },
+            "nat": "NO"
 }
         
     ],
