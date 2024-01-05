@@ -163,6 +163,409 @@
         },
         "nat": "NO"
 },
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_2000604",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_20034",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_20094",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_200237",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_200975",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_2001245",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_2054758",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_2009853",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_2765655",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+{
+    "Projct_Code": "G23",
+        "Projct_Cat": "Embdd-C",
+        "State": "Proto --✔",
+        "SIMI_Link": "IPID_<simi_link>",
+        "Description": {
+            "next_link": "HI.html",
+            "first": "IPID_200098777",
+            "last": "A",
+            "title": "LED Blinking",
+            "R_date": "31/10/2023",
+            "Add_info": "Embedded, Embedded C language",
+            "Rev": "Rev:0.0",
+            "about": "<***about project***>"
+        },
+        "location": {
+            "street": {
+                "number": 1017,
+                "name": "Rosenholmveien"
+            },
+            "city": "Embedded",
+            "state": "8-Bit MCU based Serial Monitor",
+            "country": "C language",
+            "postcode": "HW+SW",
+            "coordinates": {
+                "latitude": "46.1142",
+                "longitude": "105.2862"
+            },
+            "timezone": {
+                "offset": "+10:00",
+                "description": "Eastern Australia, Guam, Vladivostok"
+            }
+        },
+        "picture": {
+            "large": "https://static.thenounproject.com/png/1619914-200.png",
+            "medium": "https://static.thenounproject.com/png/1619914-200.png",
+            "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+        },
+        "nat": "NO"
+},
+
+
 
 
 
