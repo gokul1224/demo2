@@ -88,12 +88,12 @@
             "State": "Proto --✔",
             "SIMI_Link": "IPID_<simi_link>",
             "Description": {
-                "next_link": "HI.html",
-                "first": "IPID_20002",
+                "next_link": "https://mega.nz/file/HkVBURLC#pJdNL6mNrXqmQCZ9piq5O03pVEXG5XweJkeT8gXPBnw",
+                "first": "PMS_0.0v",
                 "last": "A",
-                "title": "LED Blinking",
+                "title": "PMS Initial release bin",
                 "R_date": "31/10/2023",
-                "Add_info": "Embedded, Embedded C language",
+                "Add_info": "Embedded, Embedded C language, HTML, JS, CSS",
                 "Rev": "Rev:0.0",
                 "about": "<***about project***>"
             },
