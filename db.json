@@ -89,8 +89,8 @@
             "SIMI_Link": "IPID_<simi_link>",
             "Description": {
                 "next_link": "https://mega.nz/file/HkVBURLC#pJdNL6mNrXqmQCZ9piq5O03pVEXG5XweJkeT8gXPBnw",
-                "first": "PMS_0.0v",
-                "last": "A",
+                "first": "PMS_",
+                "last": "0.0v",
                 "title": "PMS Initial release bin",
                 "R_date": "31/10/2023",
                 "Add_info": "Embedded, Embedded C language, HTML, JS, CSS",
