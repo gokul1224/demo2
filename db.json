@@ -1,9 +1,165 @@
 {
-    "items": [
-        { id: 1, title: 'Arduino Uno', description: 'Microcontroller board based on ATmega328P', price: 25, image: 'https://cdn.sparkfun.com/assets/9/1/e/4/8/515b4656ce395f8a38000000.png', datasheet: 'arduino_datasheet.pdf' },
-    { id: 2, title: 'Raspberry Pi 4', description: 'Single-board computer with quad-core processor', price: 35, image: 'https://robu.in/wp-content/uploads/2020/05/Raspberry-Pi-4-Model-B-with-8-GB-RAM.jpg', datasheet: 'raspberrypi_datasheet.pdf' },
-    { id: 3, title: 'ESP32', description: 'Low-power Wi-Fi and Bluetooth microcontroller', price: 15, image: 'https://quartzcomponents.com/cdn/shop/products/ESP32S-Development-Board_1024x1024.jpg?v=1654673368', datasheet: 'esp32_datasheet.pdf' }
-
+    "results": [
+        {
+            "Projct_Code": "G23",
+            "Projct_Cat": "Embdd-C",
+            "State": "R&D --🚧",
+            "SIMI_Link": "IPID_<simi_link>",
+            "Description": {
+                "next_link": "HI.html",
+                "first": "IPID_20000",
+                "last": "A",
+                "title": "Bharath",
+                "R_date": "31/12/2023",
+                "Add_info": "Embedded, Embedded C language",
+                "Rev": "Rev:0.0",
+                "about": "<***about project***>"
+            },
+            "location": {
+                "street": {
+                    "number": 1017,
+                    "name": "Rosenholmveien"
+                },
+                "city": "Embedded",
+                "state": "8-Bit MCU based Serial Monitor",
+                "country": "C language",
+                "postcode": "HW+SW",
+                "coordinates": {
+                    "latitude": "46.1142",
+                    "longitude": "105.2862"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "picture": {
+                "large": "https://static.thenounproject.com/png/1619914-200.png",
+                "medium": "https://static.thenounproject.com/png/1619914-200.png",
+                "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+            },
+            "nat": "NO"
+        },
+        {
+            "Projct_Code": "G23",
+            "Projct_Cat": "Embdd-C",
+            "State": "Draft --🛑",
+            "SIMI_Link": "IPID_<simi_link>",
+            "Description": {
+                "next_link": "HI.html",
+                "first": "IPID_20001",
+                "last": "A",
+                "title": "8-Bit ADC Heart Beat Reader",
+                "R_date": "31/11/2023",
+                "Add_info": "Embedded, Embedded C language",
+                "Rev": "Rev:0.0",
+                "about": "<***about project***>"
+            },
+            "location": {
+                "street": {
+                    "number": 1017,
+                    "name": "Rosenholmveien"
+                },
+                "city": "Embedded",
+                "state": "8-Bit MCU based Serial Monitor",
+                "country": "C language",
+                "postcode": "HW+SW",
+                "coordinates": {
+                    "latitude": "46.1142",
+                    "longitude": "105.2862"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "picture": {
+                "large": "https://static.thenounproject.com/png/1619914-200.png",
+                "medium": "https://static.thenounproject.com/png/1619914-200.png",
+                "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+            },
+            "nat": "NO"
+        },
+        {
+            "Projct_Code": "G23",
+            "Projct_Cat": "Embdd-C",
+            "State": "Proto --✔",
+            "SIMI_Link": "IPID_<simi_link>",
+            "Description": {
+                "next_link": "https://mega.nz/file/HkVBURLC#pJdNL6mNrXqmQCZ9piq5O03pVEXG5XweJkeT8gXPBnw",
+                "first": "PMS_",
+                "last": "0.0v",
+                "title": "PMS Initial release bin",
+                "R_date": "31/10/2023",
+                "Add_info": "Embedded, Embedded C language, HTML, JS, CSS",
+                "Rev": "Rev:0.0",
+                "about": "<***about project***>"
+            },
+            "location": {
+                "street": {
+                    "number": 1017,
+                    "name": "Rosenholmveien"
+                },
+                "city": "Embedded",
+                "state": "8-Bit MCU based Serial Monitor",
+                "country": "C language",
+                "postcode": "HW+SW",
+                "coordinates": {
+                    "latitude": "46.1142",
+                    "longitude": "105.2862"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "picture": {
+                "large": "https://static.thenounproject.com/png/1619914-200.png",
+                "medium": "https://static.thenounproject.com/png/1619914-200.png",
+                "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+            },
+            "nat": "NO"
+        },
+        {
+            "Projct_Code": "G23",
+            "Projct_Cat": "Embdd-C",
+            "State": "Released --✔",
+            "SIMI_Link": "IPID_<simi_link>",
+            "Description": {
+                "next_link": "HI.html",
+                "first": "IPID_20003",
+                "last": "A",
+                "title": "ADC & DAC",
+                "R_date": "31/09/2023",
+                "Add_info": "Embedded, Embedded C language",
+                "Rev": "Rev:0.0",
+                "about": "<***about project***>"
+            },
+            "location": {
+                "street": {
+                    "number": 1017,
+                    "name": "Rosenholmveien"
+                },
+                "city": "Embedded",
+                "state": "8-Bit MCU based Serial Monitor",
+                "country": "C language",
+                "postcode": "HW+SW",
+                "coordinates": {
+                    "latitude": "46.1142",
+                    "longitude": "105.2862"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "picture": {
+                "large": "https://static.thenounproject.com/png/1619914-200.png",
+                "medium": "https://static.thenounproject.com/png/1619914-200.png",
+                "thumbnail": "https://static.thenounproject.com/png/1619914-200.png"
+            },
+            "nat": "NO"
+        }
         
     ],
     "info": {
