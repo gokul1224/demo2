@@ -4,12 +4,20 @@
             "User1": {
                 "username": "admin",
                 "password": "123"
-            },
-            "User2": {
-                "username": "gokul",
-                "password": "123"
             }
-        }       
+        },
+        {
+            "User2": {
+                "username": "gokul2",
+                "password": "Password123"
+            }
+        },
+        {
+            "User3": {
+                "username": "gokul3",
+                "password": "qwerty123"
+            }
+        }
     ],
     "info": {
         "seed": "76ad1eeeae765349",
